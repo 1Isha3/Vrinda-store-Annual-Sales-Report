@@ -1,5 +1,5 @@
 # Vrinda-store-Annual-Sales-Report
-This is a Data analysis process of the vrinda store made with the help of ms excel . 
+This is a Data analysis project of the vrinda store made with the help of ms excel . 
 The basic objective of the project is to analyze the sales of the store in 2022 yr and generate insights to increase the sale in year 2023.
 The processes inloved in the project are -
 1.Data Cleaning
